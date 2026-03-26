@@ -46,7 +46,7 @@ library_management_system/
 └── db_scripts/
     ├── create_tables.sql   # SQL to create users & books tables
     └── sample_data.sql     # Optional: sample data insertion
----
+```
 
 ## Setup Instructions
 

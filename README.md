@@ -54,12 +54,12 @@ library_management_system/
 ```bash
 git clone https://github.com/yourusername/library_management_system.git
 cd library_management_system
-
+```
 2. **Install dependencies**
+pip install -r requirements.txt
 
- pip install -r requirements.txt
+3. **Setup Database**
 
-3. Setup Database
 Open MySQL
 Run create_tables.sql and sample_data.sql in db_scripts/
 
@@ -68,15 +68,17 @@ USE library_db;
 SOURCE path/to/db_scripts/create_tables.sql;
 SOURCE path/to/db_scripts/sample_data.sql;
 
-4.Run Flask App
+4.**Run Flask App**
 python app.py
----
+```
+
+
 
 ##  Project Structure
-app.py → Main backend
-templates/ → HTML pages
-static/ → CSS files
-db_scripts/ → SQL scripts
+- app.py → Main backend
+- templates/ → HTML pages
+- static/ → CSS files
+- db_scripts/ → SQL scripts
 
 ---
 

@@ -1,4 +1,4 @@
-📚 Library Management System 
+## 📚 Library Management System 
 
 [![python Version](https://img.shields.io/badge/25.0.2-JAVA%2B-blue)](https://www.oracle.com/java/technologies/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -26,7 +26,7 @@ Remove books from the collection
 - Registration for new users
 - Attractive UI using CSS
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 library_management_system/
@@ -46,8 +46,7 @@ library_management_system/
 └── db_scripts/
     ├── create_tables.sql   # SQL to create users & books tables
     └── sample_data.sql     # Optional: sample data insertion
-
-```
+---
 
 ## Setup Instructions
 
@@ -57,6 +56,7 @@ git clone https://github.com/yourusername/library_management_system.git
 cd library_management_system
 
 2. **Install dependencies**
+
  pip install -r requirements.txt
 
 3. Setup Database
@@ -71,17 +71,12 @@ SOURCE path/to/db_scripts/sample_data.sql;
 4.Run Flask App
 python app.py
 ---
-## Project Structure
+
+##  Project Structure
 app.py → Main backend
 templates/ → HTML pages
 static/ → CSS files
 db_scripts/ → SQL scripts
----
-
-
-
----
-
 
 ---
 

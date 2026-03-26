@@ -1,7 +1,6 @@
 ## 📚 Library Management System 
 
-[![python Version](https://img.shields.io/badge/25.0.2-JAVA%2B-blue)](https://www.oracle.com/java/technologies/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 [![SQL](https://img.shields.io/badge/database-Mysql%20-orange)](https://dev.mysql.com/downloads/)
 
 ---

@@ -12,11 +12,11 @@ This Library Management System is a simple, console-based Python application des
 
 ## Key Objectives:
 
--Add new books to the library
--Display all available books
--Search for books by title
--Borrow and return books
--Remove books from the collection
+- Add new books to the library
+- Display all available books
+- Search for books by title
+- Borrow and return books
+- Remove books from the collection
 
 ---
 ## Features
